@@ -1,4 +1,4 @@
-# mis_lab1
+# 
 
 
 <img width="311" height="668" alt="mis home screen" src="https://github.com/user-attachments/assets/e96ba348-69f8-4683-accd-ca5432d4773f" />
