@@ -17,7 +17,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('❤️ Favorite Recipes'),
+        title: const Text('Favorite Recipes'),
         elevation: 0,
       ),
       body: StreamBuilder<List<Favorite>>(
